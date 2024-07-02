@@ -12,16 +12,19 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mdarifhossainmithu/">LinkedIn</a> || <a href="https://www.facebook.com/mithu637">Facebook</a>
 - ⚡ Fun fact: I'm a travel enthusiast and love to explore different parts of the worlds!
 
-🛠️ <h2>Languages and Tools</h2>:
+ <h2>🛠️ Languages and Tools:</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
 
-📈 <h2>GitHub Stats</h2>:
+ <h2>📈 GitHub Stats:</h2>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=arifmithu&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=arifmithu&theme=radical&hide_border=true)
