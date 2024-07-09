@@ -28,4 +28,3 @@
  <h2>📈 GitHub Stats:</h2>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arifmithu&theme=radical&hide_border=true)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arifmithu" alt="GitHub Streak" /></a>
